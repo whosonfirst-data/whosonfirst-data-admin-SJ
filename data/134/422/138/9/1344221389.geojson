@@ -1,0 +1,72 @@
+{
+  "id": 1344221389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,78.21667,15.63333,78.21667",
+    "geom:latitude":78.21667,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2111.0",
+    "gn:asciiname":"Haugen",
+    "gn:cc2":"SJ",
+    "gn:country_code":"SJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2730733,
+    "gn:latitude":78.21667,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Haugen",
+    "gn:population":0,
+    "gn:timezone":"Arctic/Longyearbyen",
+    "iso:country":"SJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Navarhaugen",
+        "Funksjon\u00e6rbyen",
+        "Haugen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85675539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2730733
+    },
+    "wof:country":"SJ",
+    "wof:geomhash":"19de7c937e02e57e8b6714701d49a3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "locality_id":1344221389,
+            "region_id":85675539
+        }
+    ],
+    "wof:id":1344221389,
+    "wof:lastmodified":1537700339,
+    "wof:name":"Haugen",
+    "wof:parent_id":85675539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    78.21667,
+    15.63333,
+    78.21667
+],
+  "geometry": {"coordinates":[15.63333,78.21666999999999],"type":"Point"}
+}
