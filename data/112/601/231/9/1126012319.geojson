@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Ny-\u00c5lesund"
     ],
+    "name:epo_x_preferred":[
+        "Ny-\u00c5lesund"
+    ],
     "name:est_x_preferred":[
         "Ny-\u00c5lesund"
     ],
@@ -61,8 +64,14 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30fc\u30aa\u30eb\u30b9\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30cb\u30fc\u30aa\u30fc\u30ec\u30b9\u30f3"
+    ],
     "name:kor_x_preferred":[
         "\ub258\uc62c\ub808\uc21c"
+    ],
+    "name:lav_x_preferred":[
+        "N\u012bolesunna"
     ],
     "name:lit_x_preferred":[
         "Niu Olesiundas"
@@ -91,6 +100,9 @@
     "name:por_x_preferred":[
         "Ny \u00c5lesund"
     ],
+    "name:por_x_variant":[
+        "Ny-\u00c5lesund"
+    ],
     "name:ron_x_preferred":[
         "Ny-Aalesund"
     ],
@@ -111,6 +123,9 @@
     ],
     "name:unk_x_variant":[
         "Neu-Aalesund"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5967\u52d2\u677e"
     ],
     "qs_pg:aaroncc":"SJ",
     "qs_pg:gn_country":"SJ",
@@ -149,7 +164,7 @@
         }
     ],
     "wof:id":1126012319,
-    "wof:lastmodified":1561840754,
+    "wof:lastmodified":1563581438,
     "wof:name":"Ny-\u00c5lesund",
     "wof:parent_id":85675539,
     "wof:placetype":"locality",
