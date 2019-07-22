@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u063a\u064a\u0627\u0631\u0628\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0648\u0646\u063a\u064a\u064a\u0631\u0628\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Longyearbyen"
+    ],
     "name:aze_x_preferred":[
         "Lonqyirbyuen"
     ],
@@ -38,6 +44,9 @@
         "\u041b\u043e\u043d\u0433\u0438\u0439\u044a\u0440"
     ],
     "name:cat_x_preferred":[
+        "Longyearbyen"
+    ],
+    "name:ceb_x_preferred":[
         "Longyearbyen"
     ],
     "name:ces_x_preferred":[
@@ -62,6 +71,9 @@
         "\u039b\u03bf\u03bd\u03b3\u03ba\u03b3\u03ad\u03b1\u03c1\u03bc\u03c0\u03b3\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
+        "Longyearbyen"
+    ],
+    "name:epo_x_preferred":[
         "Longyearbyen"
     ],
     "name:est_x_preferred":[
@@ -141,6 +153,9 @@
     ],
     "name:lav_x_preferred":[
         "Longj\u0113rb\u012bene"
+    ],
+    "name:lav_x_variant":[
+        "Longjerb\u012bene"
     ],
     "name:lit_x_preferred":[
         "Longjyrbienas"
@@ -240,6 +255,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043d\u0433\u0457\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u043e\u043d\u0433'\u0457\u0440"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u06af\u0627\u06cc\u0631\u0628\u06cc\u0646"
@@ -388,7 +406,7 @@
         }
     ],
     "wof:id":890442521,
-    "wof:lastmodified":1561840754,
+    "wof:lastmodified":1563581437,
     "wof:name":"Longyearbyen",
     "wof:parent_id":85675539,
     "wof:placetype":"locality",

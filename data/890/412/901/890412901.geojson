@@ -36,6 +36,12 @@
     "name:eng_x_preferred":[
         "Pyramiden"
     ],
+    "name:eus_x_preferred":[
+        "Pyramiden"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u0627\u0645\u06cc\u062f\u0646"
+    ],
     "name:fin_x_preferred":[
         "Pyramiden"
     ],
@@ -51,11 +57,20 @@
     "name:hun_x_preferred":[
         "Pyramiden"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0580\u0561\u0574\u056b\u0564\u0565\u0576"
+    ],
     "name:ita_x_preferred":[
         "Pyramiden"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30e9\u30df\u30c3\u30c9"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d4\u30e9\u30df\u30fc\u30c7\u30f3"
+    ],
+    "name:lav_x_preferred":[
+        "Piramidene"
     ],
     "name:mwl_x_preferred":[
         "Piramida"
@@ -87,6 +102,9 @@
     "name:vie_x_preferred":[
         "Pyramiden"
     ],
+    "name:zho_x_preferred":[
+        "\u76ae\u62c9\u7c73\u767b"
+    ],
     "qs:name":"Pyramiden",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":890412901,
-    "wof:lastmodified":1561840754,
+    "wof:lastmodified":1563581435,
     "wof:name":"Pyramiden",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
