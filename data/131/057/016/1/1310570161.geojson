@@ -27,8 +27,275 @@
     "iso:country":"SJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:afr_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ang_x_preferred":[
+        "Ian Magen"
+    ],
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0646 \u0645\u0627\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:aze_x_preferred":[
+        "Yan Mayen"
+    ],
+    "name:bel_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0435\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09af\u09bc\u09be\u09a8 \u09ae\u09be\u09af\u09bc\u09c7\u09a8"
+    ],
+    "name:bos_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:bre_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:bul_x_preferred":[
+        "\u042f\u043d \u041c\u0430\u0439\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ceb_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ces_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:cor_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:cym_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:dan_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:deu_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:diq_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bd \u039c\u03b1\u03b3\u03b9\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Jan Mayen"
+    ],
+    "name:epo_x_preferred":[
+        "Janmajeno"
+    ],
+    "name:est_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:eus_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:fao_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Jan Mayen"
+    ],
+    "name:frp_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:frr_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:fry_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:gle_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:glg_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05df \u05de\u05d0\u05d9\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093e\u0928 \u092e\u093e\u092f\u0947\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:hun_x_preferred":[
+        "Jan Mayen-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0576 \u0544\u0561\u0575\u0565\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ind_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:isl_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ita_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:jav_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10dc-\u10db\u10d0\u10d8\u10d4\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc580\ub9c8\uc60c\uc12c"
+    ],
+    "name:kur_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:lav_x_preferred":[
+        "Jana Majena sala"
+    ],
+    "name:lij_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:lim_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:lit_x_preferred":[
+        "Jan Majenas"
+    ],
+    "name:ltz_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:mar_x_preferred":[
+        "\u092f\u093e\u0928 \u092e\u093e\u092f\u0947\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u043d \u041c\u0430\u0458\u0435\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:myv_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:nno_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:nor_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:oss_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d"
+    ],
+    "name:pih_x_preferred":[
+        "Yaan Meien"
+    ],
+    "name:pol_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:por_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Jan Mayen"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:slk_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:slv_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:sme_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:spa_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:sqi_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043d \u041c\u0430\u0458\u0435\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:swa_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:swe_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0baf\u0bc6\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e22\u0e32\u0e19\u0e44\u0e21\u0e40\u0e2d\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043d-\u041c\u0430\u0454\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:war_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:wuu_x_preferred":[
+        "\u626c\u9a6c\u5ef6\u5c9b"
+    ],
+    "name:xal_x_preferred":[
+        "\u042f\u043d \u041c\u0430\u0439\u0435\u043d\u0438\u043d \u0410\u0440\u0430\u043b"
+    ],
+    "name:yor_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:zea_x_preferred":[
+        "Jan Mayen"
+    ],
+    "name:zho_x_preferred":[
+        "\u63da\u99ac\u5ef6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -47,7 +314,7 @@
         }
     ],
     "wof:id":1310570161,
-    "wof:lastmodified":1537700339,
+    "wof:lastmodified":1564218526,
     "wof:name":"Jan Mayen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
