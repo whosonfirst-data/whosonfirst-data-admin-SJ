@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Arctic/Longyearbyen",
     "iso:country":"SJ",
+    "lbl:bbox":"-8.658,70.92984,-8.618,70.96984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Jan Mayen"
     ],
@@ -314,7 +318,7 @@
         }
     ],
     "wof:id":1310570161,
-    "wof:lastmodified":1564218526,
+    "wof:lastmodified":1566645312,
     "wof:name":"Jan Mayen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

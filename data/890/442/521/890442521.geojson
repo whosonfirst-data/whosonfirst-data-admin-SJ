@@ -11,8 +11,11 @@
     "geom:longitude":15.64007,
     "gn:country":"SJ",
     "gn:fcode":"PPLC",
-    "gn:pop":2060,
+    "gn:population":2060,
     "iso:country":"SJ",
+    "lbl:bbox":"15.62007,78.1986,15.66007,78.2386",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -389,10 +392,12 @@
     "wof:concordances":{
         "gn:id":2729907,
         "gp:id":537831,
-        "qs:id":575764,
-        "qs_pg:id":1120236,
+        "qs_pg:id":575764,
         "wd:id":"Q25923",
         "wk:page":"Longyearbyen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1120236
     },
     "wof:country":"SJ",
     "wof:created":1469052365,
@@ -406,7 +411,7 @@
         }
     ],
     "wof:id":890442521,
-    "wof:lastmodified":1563581437,
+    "wof:lastmodified":1566645313,
     "wof:name":"Longyearbyen",
     "wof:parent_id":85675539,
     "wof:placetype":"locality",
