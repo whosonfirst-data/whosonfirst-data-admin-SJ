@@ -401,6 +401,9 @@
     },
     "wof:country":"SJ",
     "wof:created":1469052365,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"967fdcfff048f2c3341390323676e7c4",
     "wof:hierarchy":[
         {
@@ -411,7 +414,7 @@
         }
     ],
     "wof:id":890442521,
-    "wof:lastmodified":1566645313,
+    "wof:lastmodified":1582358652,
     "wof:name":"Longyearbyen",
     "wof:parent_id":85675539,
     "wof:placetype":"locality",
