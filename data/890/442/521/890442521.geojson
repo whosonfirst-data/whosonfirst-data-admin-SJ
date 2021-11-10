@@ -118,6 +118,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e0\u05d2\u05d9\u05d9\u05e8\u05d1\u05d9\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u0949\u0902\u0917\u0907\u092f\u0930\u092c\u094d\u092f\u0947\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Longyearbyen"
     ],
@@ -414,7 +417,7 @@
         }
     ],
     "wof:id":890442521,
-    "wof:lastmodified":1582358652,
+    "wof:lastmodified":1636502855,
     "wof:name":"Longyearbyen",
     "wof:parent_id":85675539,
     "wof:placetype":"locality",
